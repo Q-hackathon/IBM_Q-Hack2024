@@ -1,7 +1,5 @@
 # IBM Hackathon Challenge @ Q-Hack 2024
 
-### 3rd-4th April - Mannheim
-
 ## The Challenge
 
 **Artificial Intelligence for Evidence-Based Decision-Making in Public Spaces:**  
