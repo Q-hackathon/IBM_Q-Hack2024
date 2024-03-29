@@ -1,4 +1,6 @@
-# IBM Hackathon Challenge @ Q-Hack 2024
+![Q-Hack_X_IBM](https://github.com/Q-hackathon/IBM_Q-Hack2024/assets/161318557/2e9c185d-f827-429c-8dc6-faced627c1fa)
+
+# <p align="center"> IBM Hackathon Challenge @ Q-Hack 2024 </p>
 
 ## The Challenge
 
