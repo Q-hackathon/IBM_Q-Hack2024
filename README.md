@@ -41,7 +41,7 @@ Ideally, the team consists of members with interdisciplinary skills across diffe
 - The Tech field, focusing on programming, AI, and data analysis.
 - The Design field, emphasizing UI and experience design.
 
-### What information should the students gather in advance?
+### What information should the students gather in advance???
 
 - High-level understanding of current AI trends and market applications
 - Suitable, easily accessible data sources for the preferred domain
